@@ -1,8 +1,5 @@
-# COVID-19_TweetsRawData
-Twitter live stream filtered through Tweepy for 2 hours around 11:00~13:00 every 3 days between March 1st to June 14th, 2020
-
-Searching keywords:"coronavirus", "COVID-19", "COVID19", "COVID_19","SARSCOV2", "SARS-COV-2", "SARS_COV_2".
-
+# Data
+All related data for "Analyzing Twitter Data to Evaluate the People’s Attitudes to Public Health Policies and Events in the Era of COVID-19"
 
 <a href="https://menghtsai.com/RawData_Mar_part1.zip">March_part.1 RAW Data</a><br/>
 <a href="https://menghtsai.com/RawData_Mar_part2.zip">March_part.2 RAW Data</a><br/>
